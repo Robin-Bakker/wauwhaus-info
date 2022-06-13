@@ -1,0 +1,22 @@
+# Setup
+title:               Wauwhaus
+tagline:             'A Jekyll theme'
+description:         'Information useful for those living in the Wauwhaus.'
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Robin Bakker
+  url:               http://rsbakker.nl
+  email:             wauwhaus@rsb.tools
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.0.0
+google_analytics_id: #UA-XXXX-Y
