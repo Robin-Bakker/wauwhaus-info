@@ -10,5 +10,5 @@ The following topics are covered:
 
 - [Municipal taxes (BsGW)]({{'/finances/municipal-taxes' | absolute_url}})
 - [Subsidies]({{'/finances/subsidies' | absolute_url}})
-- [Health insurance]({{'/finances/health-insurance' | absolute_url}}))
-- [Student financing]({{'/finances/student-financing' | absolute_url}}))
+- [Health insurance]({{'/finances/health-insurance' | absolute_url}})
+- [Student financing]({{'/finances/student-financing' | absolute_url}})
