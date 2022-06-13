@@ -23,7 +23,7 @@ You can apply for the waiver in one of two ways: online or via letter.
 
 Applying online occurs via [my BsGW](https://bsgw.nl/nl/veel-gestelde-vragen/wijzigingen/mijn-bsgw), which is only available in Dutch and requires you to have obtained a DigiD. 
 
-[MyMaastricht](https://mymaastricht.nl/finances/benefits/kwijtschelding-bsgw/) has created excellent guidance on how to fill in this form. Please follow their [guidance document <span class="mdi mdi-file-pdf-box"></span>]({{'/public/manuals/bsgw-tax-waiver-guidance.pdf' | absolute_url}}) for instructions.
+[MyMaastricht](https://mymaastricht.nl/finances/benefits/kwijtschelding-bsgw/) has created excellent guidance on how to fill in this form. Please follow their [guidance document <span class="iconify" data-icon="mdi-file-pdf-box"></span>]({{'/public/manuals/bsgw-tax-waiver-guidance.pdf' | absolute_url}}) for instructions.
 
 If BsGW is unable to verify the information provided online, they will send you the tax waiver form via mail and ask you to provide more information.
 
@@ -40,13 +40,13 @@ Request a paper application form for a tax waiver (in Dutch: *kwijtschelding*) v
 5. Ask for a tax waiver form. They will ask for the tax bill number (*aanslagnummer*) and file number (*dossiernummer*). These are listed on your tax bill (near the top).
 6. The support agent will confirm that a waiver form will be sent.
 
-You will be sent a paper form in about five working days which you can fill out and return by mail. A translation of this form can be found [here <span class="mdi mdi-file-pdf-box"></span>]({{'/public/manuals/bsgw-tax-waiver-form.pdf' | absolute_url}}), courtesy of MyMaastricht. Please note that this translation states that you are not eligible for a waiver if you have more than € 1400 in your bank account. This does not apply if you have debts that compensate for your assets.
+You will be sent a paper form in about five working days which you can fill out and return by mail. A translation of this form can be found [here <span class="iconify" data-icon="mdi-file-pdf-box"></span>]({{'/public/manuals/bsgw-tax-waiver-form.pdf' | absolute_url}}), courtesy of MyMaastricht. Please note that this translation states that you are not eligible for a waiver if you have more than € 1400 in your bank account. This does not apply if you have debts that compensate for your assets.
 
 ## Additional information
 
 If the BsGW are unable to verify the details you provided in that form, they will send you a request for additional information. This request can take one of two forms. They either send you a tax waiver form, or they deny your tax waiver for specific reasons.
 
-The tax waiver form ([translation <span class="mdi mdi-file-pdf-box"></span>]({{'/public/manuals/bsgw-tax-waiver-form.pdf' | absolute_url}})) asks you to attach specific documents. Specifically, they want you to provide the following:
+The tax waiver form ([translation <span class="iconify" data-icon="mdi-file-pdf-box"></span>]({{'/public/manuals/bsgw-tax-waiver-form.pdf' | absolute_url}})) asks you to attach specific documents. Specifically, they want you to provide the following:
 
 - Bank, savings and investment account statements showing all transactions over the past four weeks.
 - DUO award letter (if you receive student financing)

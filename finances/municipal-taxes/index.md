@@ -3,7 +3,7 @@ layout: page
 title: Municipal taxes
 ---
 
-Every year you will receive a letter from the [*Belastingsamenwerking Gemeenten en Waterschappen Limburg*](https://bsgw.nl/en). This tax bill covers garbage, sewage, water system and water purification taxes, which amounts to around € 500 per year. An example letter for the year 2022 is available [here. <span class="mdi mdi-file-pdf-box"></span>]({{ '/public/manuals/bsgw-aanslag-voorbeeld.pdf'  | absolute_url }})
+Every year you will receive a letter from the [*Belastingsamenwerking Gemeenten en Waterschappen Limburg*](https://bsgw.nl/en). This tax bill covers garbage, sewage, water system and water purification taxes, which amounts to around € 500 per year. An example letter for the year 2022 is available [here. <span class="iconify" data-icon="mdi-file-pdf-box"></span>]({{ '/public/manuals/bsgw-aanslag-voorbeeld.pdf'  | absolute_url }})
 
 The letter includes instructions on how to pay. You can transfer the amount owed via bank transfer. Include the tax bill number (*aanslagnummer*) in the description of the payment. BsGW's bank details are the following:
 

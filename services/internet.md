@@ -13,7 +13,7 @@ Wifi is not provided in the rooms themself. You will need to utilize a router wi
 
 You can purchase a router at the [MediaMarkt](https://www.mediamarkt.nl/nl/store/mediamarkt-maastricht-866), [online](https://tweakers.net/modems-en-routers/vergelijken/#filter:TYmxCsMgGAbf5ZszaCE0-ABtKXRyDBlEviY_SCIqGRJ899it03F3J2TdmYpdtmgZ6ItsK8zXhcwO0c20chBGK9U0iedH2m-SI_1DQmHKMCduur__uLsAM-LtMNUOg9LDX-2fr6P1Wi8) or any other general electronics store. Please make sure to purchase a router that supports 5GHz, as older technology suffers from congestion.
 
-A setup guide is available at [this location. <span class="mdi mdi-file-pdf-box"></span>]({{ '/public/manuals/internet-manual.pdf'  | absolute_url }})
+A setup guide is available at [this location. <span class="iconify" data-icon="mdi-file-pdf-box"></span>]({{ '/public/manuals/internet-manual.pdf'  | absolute_url }})
 
 ## Common access
 The common areas are serviced by a public wifi network. Details are provided below.
@@ -29,9 +29,9 @@ Internet is provided and supported by [ittdesk](https://www.ittdesk.nl/en/). Itt
 
 Issues with the internet connection should be brought up with them. They are reachable at the following places:
 
-- **<span class="mdi mdi-phone"></span> Phone**: [+31 (0)85-0140141](tel:+31850140141)
-- **<span class="mdi mdi-whatsapp"></span> Whatsapp**: [+31 (0)6-20088717](https://wa.me/31620088717)
-- **<span class="mdi mdi-book-information-variant"></span> Online form**: [available on their website](https://www.ittdesk.nl/en/supportformulier/)
+- **<span class="iconify" data-icon="mdi-phone"></span> Phone**: [+31 (0)85-0140141](tel:+31850140141)
+- **<span class="iconify" data-icon="mdi-whatsapp"></span> Whatsapp**: [+31 (0)6-20088717](https://wa.me/31620088717)
+- **<span class="iconify" data-icon="mdi-book-information-variant"></span> Online form**: [available on their website](https://www.ittdesk.nl/en/supportformulier/)
 
 ## Technical details
 Service is provided by ittdesk over the Ziggo network. The building is serviced by two Ziggo business internet connections which form a backup for one another.
