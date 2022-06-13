@@ -1,6 +1,6 @@
 # Setup
-title:               Wauwhaus
-tagline:             'A Jekyll theme'
+title:               Wauwhaus Info
+tagline:             ''
 description:         'Information useful for those living in the Wauwhaus.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
@@ -14,8 +14,8 @@ author:
   email:             wauwhaus@rsb.tools
 
 # Gems
-plugins:
-  - jekyll-paginate
+#plugins:
+#  - jekyll-paginate
 
 # Custom vars
 version:             1.0.0
