@@ -9,5 +9,6 @@ The Netherlands has a complex system of taxation, benefits and insurance. It can
 The following topics are covered:
 
 - [Municipal taxes (BsGW)]({{'/finances/municipal-taxes' | absolute_url}})
-- [Subsidies]({{'/finances/municipal-taxes' | absolute_url}})
-- [Student financing](({{'/finances/municipal-taxes' | absolute_url}}))
+- [Subsidies]({{'/finances/subsidies' | absolute_url}})
+- [Health insurance](({{'/finances/health-insurance' | absolute_url}}))
+- [Student financing](({{'/finances/student-financing' | absolute_url}}))
