@@ -39,4 +39,4 @@ The following [conditions apply](https://www.belastingdienst.nl/wps/wcm/connect/
 - Your (combined) income and capital are not too high.
 - You have the nationality of an EU country, Liechtenstein, Norway, Iceland or Switzerland. Are you from another country? If so, you need a valid residence permit or work permit.
 
-You can apply for the rent subsidy via [Mijn Toeslagen](https://mijn.toeslagen.nl/default.aspx) (redirects to DigiD).
+You can apply for the health insurance subsidy via [Mijn Toeslagen](https://mijn.toeslagen.nl/default.aspx) (redirects to DigiD).
